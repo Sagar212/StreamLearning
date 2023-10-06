@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
-
+bin
+**/bin/*
+**/obj/*
 # Log file
 *.log
 

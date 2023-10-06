@@ -4,10 +4,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
-<<<<<<< HEAD
-=======
-//yu
->>>>>>> a39a96a94f1f16a4b89f0b5cd2aed2d7d7dd485c
 public class StreamTrain {
 	public static void main(String[] args) {
 		List<String> countries = new ArrayList<String>();
@@ -22,11 +18,11 @@ public class StreamTrain {
 		// countries.addAll(Arrays.asList("air","top","water"));
 		List<String> countries2 = new ArrayList<String>();
 		countries2.addAll(Arrays.asList("air", "top", "water", "air2", "top2", "water2"));
-<<<<<<< HEAD
+
 //	Customerldy.stream().forEach(System.out::println );
-=======
+
 		Customerldy.stream().forEach(System.out::println);
->>>>>>> a39a96a94f1f16a4b89f0b5cd2aed2d7d7dd485c
+
 		// countries.stream().map(String::toUpperCase).forEach(System.out::println);
 // System.out.println(countries2.removeAll(Customerldy));
 
